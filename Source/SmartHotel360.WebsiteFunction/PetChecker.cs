@@ -1,3 +1,4 @@
+//Teste de Build automatico
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Documents;
 using Microsoft.Azure.Documents.Client;
